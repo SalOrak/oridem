@@ -2,10 +2,11 @@
 archetype = "default"
 title = "Universidad"
 menuTitle = "Universidad"
-weight = 1
+weight = 2
 +++
 
 
-La pagina web sobre la universidad esta en castellano.
+En esta seccion encontraras todo la informacion necesaria sobre las **Universidades** disponibles en **Espana**.
 
-Aqui encontraras toda la informacion relaciona con la universidad.
+
+{{% children sort="weight" %}}

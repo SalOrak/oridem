@@ -5,10 +5,8 @@ menuTitle = "Formacion Profesional"
 weight = 1
 +++
 
-
-La pagina web sobre la formacion profesional esta en castellano.
-
-
-Aqui encontraras toda la informacion relacionada con la formacion profesional.
+En esta seccion encontraras todo la informacion necesaria sobre las **Formaciones Profesionales** disponibles en **Espana**.
 
 
+{{% children sort="weight" %}}
+{{% children containerstyle="div" style="h3" depth="3" %}}

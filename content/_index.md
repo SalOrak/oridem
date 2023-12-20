@@ -5,4 +5,10 @@ weight = 1
 +++
 
 
-La pagina web esta en castellano.
+### Que es **Oridem**? 
+
+**Oridem** viene de union de las silabas **Ori**entacion Aca**dem**ica.
+
+**Oridem** pretende ser un punto de recogida de informacion sobre las posibilidades de estudio que existen en Espanya a partir de los 16 anyos.
+
+
