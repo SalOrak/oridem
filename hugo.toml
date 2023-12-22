@@ -13,7 +13,7 @@ disableLandingPageButton = true
 # Multilanguages
 [languages]
 [languages.es]
-title = "Orientacion Academica"
+title = "Oridem"
 weight = 1
 languageName= "Español"
 languageCode = "es"

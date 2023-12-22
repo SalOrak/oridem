@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Orientacion Academica"
+title = "Oridem"
 weight = 1
 +++
 
