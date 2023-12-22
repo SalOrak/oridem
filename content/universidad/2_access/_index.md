@@ -1,11 +1,11 @@
 +++
 archetype = "default"
-title = "Como accedo"
-menuTitle = "Como accedo"
+title = "¿Cómo accedo?"
+menuTitle = "¿Cómo accedo?"
 weight = 2
 +++
 
-En esta sección os explicamos, en primer lugar, el proceso habitual de acceso a una universidad pública en Catalunya.  En la parte final de la página encontraréis una breve explicación del acceso para universidades privadas (clicar aquí si queréis ir directamente). 
+En esta sección os explicamos, en primer lugar, el proceso habitual de acceso a una universidad pública en Cataluña.  En la parte final de la página encontraréis una breve explicación del acceso para universidades privadas (clicar aquí si queréis ir directamente). 
 PAU
 
 Como ya sabréis, para acceder a la universidad desde Bachillerato hay que realizar las Pruebas de Acceso a la Universidad (PAU), ya sea en la convocatoria de Junio o la de Septiembre.

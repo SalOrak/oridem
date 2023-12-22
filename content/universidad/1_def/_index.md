@@ -1,7 +1,7 @@
 +++
 archetype = "default"
-title = "Que es?"
-menuTitle = "Que es?"
+title = "¿Qué es?"
+menuTitle = "¿Qué es?"
 weight = 1
 +++
 

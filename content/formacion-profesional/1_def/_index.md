@@ -1,14 +1,11 @@
 +++
 archetype = "default"
-title = "Que es?"
-menuTitle = "Que es?"
+title = "¿Qué es?"
+menuTitle = "¿Qué es?"
 weight = 1
 +++
 
-
-### Formacion Profesional
-
-Los estudios de formacion profesional son las ensenyanzas regladas mas conectadas con el mercado laboral. La oferta formativa sigue las tendencias del mercado laboral, tanto las ocupaciones con demandas como las ocupaciones emergentes en un entorno laboral en constante cambio. 
+Los estudios de formacion profesional son las enseñanzas regladas mas conectadas con el mercado laboral. La oferta formativa sigue las tendencias del mercado laboral, tanto las ocupaciones con demandas como las ocupaciones emergentes en un entorno laboral en constante cambio. 
 
 Las formaciones profesionales tambien se conocen con los siguientes nombres:
 - **FP**, ya que son las siglas de formacion profesional.
@@ -17,10 +14,9 @@ Las formaciones profesionales tambien se conocen con los siguientes nombres:
     - **CFGM** para ciclos formativos de grado medio.
     - **CFGB** para ciclos formativos de grado basico.
 
-
 ### Cuanto dura?
 
-Los ciclos formativos de grado o fp tienen una duracion media aproximada de **2 anyos**.
+Los ciclos formativos de grado o fp tienen una duracion media aproximada de **2 años**.
 
 
 ### Cuanto cuesta? 

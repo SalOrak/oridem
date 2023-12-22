@@ -1,11 +1,11 @@
 +++
 archetype = "default"
-title = "Que puedo estudiar"
-menuTitle = "Que puedo estudiar"
+title = "¿Qué puedo estudiar?"
+menuTitle = "¿Qué puedo estudiar?"
 weight = 4
 +++
 
-Las universidades ofrecen estudios en el formato de grado universitario. Solo en Catalunya, existen más de 250 grados diferentes. 
+Las universidades ofrecen estudios en el formato de grado universitario. Solo en Cataluña, existen más de 250 grados diferentes. 
 En esta sección, profundizamos en como se estructuran los grados, diferencias entre los distintos tipos, la posibilidad de realizarlos en el extranjero y otras menciones especiales.
 
 ## Grados 
@@ -14,7 +14,7 @@ Los grados universitarios tienen una duración estándar de 4 años aunque algun
 
 ### Estructura del grado universitario
 
-Como hemos dicho antes, si miramos únicamente a Catalunya, ya existen muchísimos grados diferentes solo en Catalunya. Sin embargo, todos ellos suelen tener una estructura simular, con asignaturas básicas, obligatorias, optativas y trabajo final de grado.
+Como hemos dicho antes, si miramos únicamente a Cataluña, ya existen muchísimos grados diferentes solo en Cataluña. Sin embargo, todos ellos suelen tener una estructura simular, con asignaturas básicas, obligatorias, optativas y trabajo final de grado.
 
 -	**Asignaturas básicas**: se suelen impartir durante el primer año y son comunes entre diferentes grados del mismo ámbito
 -	**Asignaturas obligatorias**: se suelen impartir entre el segundo y el tercer año. Son diferentes entre grados del mismo ámbito, definen el grado.

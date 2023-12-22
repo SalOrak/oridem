@@ -7,7 +7,7 @@ alwaysopen = true
 collapsibleMenu = false
 author.name = "Mario Acosta & Hector Alarcon"
 showVisitedLinks = false
-themeVariant = ["zen-dark", "zen-light"]
+themeVariant = [ "zen-light", "relearn-light"]
 disableLandingPageButton = true
 
 # Multilanguages

@@ -1,7 +1,7 @@
 +++
 archetype = "default"
-title = "Cuanto cuesta"
-menuTitle = "Cuanto cuesta"
+title = "¿Cuánto cuesta?"
+menuTitle = "¿Cuánto cuesta?"
 weight = 3
 +++ 
 
@@ -31,7 +31,7 @@ En universidades públicas existen tres categorías de precios, los de coeficien
 
 Existen dos becas para estudios universitarios públicos que todo estudiante debe conocer. Estas dos becas son: 
 - La beca **General del Ministerio** (beca nacional del gobierno de España) 
-- La beca **Equitat** (beca de la Generalitat de Catalunya). 
+- La beca **Equitat** (beca de la Generalitat de Cataluña). 
 
 ##### Beca general del ministerio
 

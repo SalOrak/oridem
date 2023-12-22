@@ -5,10 +5,8 @@ menuTitle = "Conceptos"
 weight = 6
 +++
 
-Conceptos asociados
 
-Creditos
+## Conceptos
 
-Facultades 
 
-etc
+

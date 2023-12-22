@@ -1,14 +1,15 @@
 +++
 archetype = "default"
-title = "Cuanto cuesta"
-menuTitle = "Cuanto cuesta"
+title = "¿Cuánto cuesta?"
+menuTitle = "¿Cuánto cuesta?"
 weight = 3
 +++ 
 
-Cuanto cuesta en total
+Dependiendo del tipo de la formacion profesional, ya sea medio o superior, el coste varia. Y no solo eso, sino tambien el **centro**. 
 
-Cuanto cuesta por year
+Igual que en el caso de los institutos, hay tres tipos de centros:
+1. **Centros publicos**: Gratis pero con condiciones extras tales como notas de corte o requisitos del centro.
+2. **Centros concertados**: Alreadedor de 200 euros mensuales o 2000 euros por curso. 
+3. **Centros privados**: Entre el precio concertado (200 euros mensuales) hasta los 400 euros mensuales.
 
-Cuanto cuesta por mes 
 
-Hay becas / ayudas?

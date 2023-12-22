@@ -1,7 +1,7 @@
 +++
 archetype = "default"
-title = "Como accedo"
-menuTitle = "Como accedo"
+title = "¿Cómo accedo?"
+menuTitle = "¿Cómo accedo?"
 weight = 2
 +++
 
