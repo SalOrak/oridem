@@ -1,7 +1,7 @@
 +++
 archetype = "default"
-title = "Que tematicas existen"
-menuTitle = "Que tematicas existen"
+title = "¿Qué temáticas existen?"
+menuTitle = "¿Qué temáticas existen?"
 weight = 4
 +++
 

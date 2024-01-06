@@ -14,16 +14,7 @@ Las formaciones profesionales tambien se conocen con los siguientes nombres:
     - **CFGM** para ciclos formativos de grado medio.
     - **CFGB** para ciclos formativos de grado basico.
 
-### Cuanto dura?
+A diferencia de las universidades, donde el grado de compromiso es mas elevado, los ciclos formativos de grado o fp tienen una duracion media aproximada de **2 años**.
 
-Los ciclos formativos de grado o fp tienen una duracion media aproximada de **2 años**.
-
-
-### Cuanto cuesta? 
-
-El precio de los ciclo formativos o fp tienen un coste variable. Pero el precio habitual suele rondar entre los **100e/mes**. Aunque cabe decir que los centro publicos que ofrecen FP son **gratuitos**.
-
-### Salidas profesionales
-
-Los ciclos superiores estan estrechamente ligados al mercado laboral. Esto quiere decir que se adaptan a las necesidades del mercado. Por esto, las empresas suelen colaborar directamente con los cursos de FP buscando talento. 
+Los ciclos estan estrechamente ligados al mercado laboral. Esto quiere decir que se adaptan a las necesidades del mercado. Por esto, las empresas suelen colaborar directamente con los cursos de FP buscando talento. 
 
