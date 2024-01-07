@@ -19,14 +19,6 @@ En universidades públicas existen tres categorías de precios, los de coeficien
 | Soporte al aprendizaje (por semestre) | 35-70 | 35-70 | 35-70  |
 | Total (1 año)                         | 1190  | 1240  | 1355   |
 
-{{% notice style="warning" title="PROVISIONAL"%}}
-
-**Hector del Pasado**: *No deberiamos ser tan subjetivos. A pesar de que nos parezca una verguenza, que lo es, no creo que una opinion tan fuerte sea conveniente en una web publica.*
-
-> Cuando acabes el grado, guárdate 200 eur porque tendrás que pagar para la expedición del título académico. Lamentable verdad? Y no solo eso, tendrás que esperar unos 2 años hasta que lo recibas!
-
-{{% /notice %}}
-
 ### Becas universidades públicas 
 
 Existen dos becas para estudios universitarios públicos que todo estudiante debe conocer. Estas dos becas son: 
