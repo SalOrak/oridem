@@ -1,6 +1,6 @@
 defaultContentLanguage = "es"
 theme = "hugo-theme-relearn"
-baseURL = 'https://oridem.salorak.es/'
+baseURL = 'https://oridem.es/'
 
 [params]
 alwaysopen = true
