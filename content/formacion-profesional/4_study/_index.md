@@ -5,7 +5,15 @@ menuTitle = "¿Qué puedo estudiar?"
 weight = 4
 +++
 
-## Tipologia 
+La formacion profesional ofrece un gran abanico de estudios en muchas areas distintas. De hecho existen un total de 26 familias profesionales con mas de 150 ciclos formativos.
+
+## Formacion Profesional
+
+Las formaciones profesionales tienen una duracion aproximada de **2 años** en la mayoria de las ocasiones. Ademas de eso, al estar estrechamente ligadas con el mercado laboral suelen contar con *practicas en empresa* como asignatura obligatoria en el ultimo curso del ciclo. Es decir, la experiencia en el sector esta altamente asegurada.
+
+Con todo esto, es importante distinguir entre los diferentes **tipos** de FP.
+
+### Tipologia 
 Los ciclos formativos se agrupan en familias profesionales y en diferentes niveles. 
 Los niveles son los siguientes, ordenados de menor a mayor requisitos.
 
@@ -17,53 +25,64 @@ Los niveles son los siguientes, ordenados de menor a mayor requisitos.
 Commplementan la oferta formativa de la formacion profesional.
 Los FP Basicos se presentan como una oportunidad para alumnos con mejores competencias en entornes vinculados al mundo profesional. Van dirigidos a alumnos que han cursado 3r ESO (o excepcionalmente 2n ESO).
 
-**Duracion**: Tienen una duracion de dos cursos academicos (2000 horas).
+Tal y como la mayoria de FP, tienen una duracion de 2000 horas repartidas en dos cursos academicos.
 
 La superacion de la totalidad de los ambitos incluidos en un ciclo formativo de grado basico permite la **obtencion del titulo de graduada/o en educacion secundaria obligatoria** i del titulo de tecnica/o basico en especialidad correspondeniente.
 
-**Salidas academicas y profesionales**:
-- Acceso a ciclos formativos de grado medio.
-- Acceso a Bachillerato
-- Acceso al mundo laboral.
+L@s graduad@s en **FP Basico** tienen la oportunidad de: 
+- Acceder a ciclos formativos de grado medio.
+- Acceder a Bachillerato
+- Acceder al mundo laboral.
 
-**Practicas en empresas**:
-
-Todos los ciclos incluyen obligatoriamente 320h de formacion en empresa. 
+Para mas informacion sobre las formaciones profesionales de grado basico os recomendamos los siguientes links:
+- [triaeducativa: Grau Basic](https://triaeducativa.gencat.cat/ca/fp/grau-basic/)
+- [todofp: Grado Basico](https://todofp.es/que-estudiar/ciclos/fp-grado-basico.html)
 
 #### FP Medios
 Tambien llamados (CFGM) son enseñanzas profesionalizadores que proporcionan la formacion necesaria para adquirir la competencia profesional y el conocimiento propio de cada sector.
 
-Se agrupan en familias profesionales.
+De nuevo,y como la mayoria de FP, tienen una duracion de 2000 horas repartidas en dos cursos academicos.
 
-**Duracion**: Tienen un durada de dos cursos academicos (2000 horas).
-
-**Salidas academicas y profesionales**:
-- Acceso a Bachillerato
-- Acceaso a un Ciclo de Grado Superior. 
+L@s graduad@s en **FP Medio** tienen la oportunidad de: 
+- Acceder a *Bachillerato*.
+- Acceder a una *Formacion Profesional Superior*. 
 - Acceso al mundo laboral.
 
-Mas informacion en https://triaeducativa.gencat.cat/ca/fp/grau-mitja/
+Para mas informacion sobre las formaciones profesionales de grado medio os recomendamos los siguientes links:
+- [triaeducativa: Grau Mitja](https://triaeducativa.gencat.cat/ca/fp/grau-mitja/)
+- [todofp: Grado Medio](https://todofp.es/que-estudiar/ciclos/grado-medio.html)
 
 #### FP Superior
 
 Los ciclos de formacion de Grado Superior son estudios profesionalizadores que forman parte de la educacion superior y que preparan para la actividad cualificada en un campo profesional.
 
-**Duracion**: Tienen un durada de dos cursos academicos (2000 horas).
 
-**Salidas academicas y profesional**:
-- Acceso cualquier estudio universitario de grado
-- Acceso al mundo laboral
+Las FP de grado superior tienen una duracion de 2000 horas repartidas en dos cursos academicos.
 
-Mas informacion en https://triaeducativa.gencat.cat/ca/fp/grau-superior/
+L@s graduad@s en **FP Medio** tienen la oportunidad de: 
+- Acceder y estudiar en **cualquier estudio universitario** de grado.
+- Acceder al mundo laboral.
 
+Para mas informacion sobre las formaciones profesionales de grado superior os recomendamos los siguientes links:
+- [triaeducativa: Grau Superior](https://triaeducativa.gencat.cat/ca/fp/grau-superior/)
+- [todofp: Grado Superior](https://todofp.es/que-estudiar/ciclos/grado-superior.html)
 
 ## Estudios
 
 #### Certificado Profesional
-Son titulos oficiales expedidos por el Ministerio de Educacion y Formacional o en su caso, por las CCAA, que acreditan las competencias profesionales adquiridas.
-Las compentencias profesionales comprenden los conocimientos y aptitudes necesarios para ejercer una actividad laboral concreta, en funcion de las necesidades del mercado de trabajo en cada momento.
+Los certificados profesionales o cursos de especializacion son titulos oficiales expedidos por el Ministerio de Educacion y Formacional o en su caso, por las CCAA, que acreditan las competencias profesionales adquiridas.
 
-#### Familias profesionales FP
+Los certificados profesionales son los **Master para la FP**. Los masters proporcionan un estudio mas especifico sobre un area de conocimiento.
+
+A diferencia de los Masters Universitarios, los certificados profesionales suelen tener como requisito actividad laboral previa y especializada. Es decir, dependiendo del certificado laboral piden que hayas trabajado previamente en ese ambito para poder acceder.
+
+Para mas informacion sobre las formaciones profesionales de grado superior os recomendamos los siguientes links:
+- [triaeducativa: Cursos Especialitzacio](https://triaeducativa.gencat.cat/ca/fp/cursos-especialitzacio/)
+- [todofp: Cursos de Especializacion por familias](https://todofp.es/que-estudiar/ciclos/curso-especializacion.html)
+
+## Estructura de FP
+
+## Familias profesionales FP
 
 Actualmenten existen **26 familias profesionales** de FP, agrupadas por especialidades y grados.
 
@@ -100,11 +119,11 @@ Actualmenten existen **26 familias profesionales** de FP, agrupadas por especial
 Los numeros entre parentesis indican la cantidad de cursos distintos pertenecientes a la categoria.
 
 Por ejemplo,  **Quimica | No | Si (2) | Si (3) | Si (1)** significa que
-- No hay ningun grado de Quimica de grado basico.
-- Existen 2 grados medios diferentes de Quimica.
-- Existen 3 grados superiores distintos de Quimica.
-- Unicamente hay un grado de especializacion, o certificado profesional, de Quimica.
+- **No** hay ningun grado de Quimica de grado basico.
+- Existen **2 grados medios** diferentes de Quimica.
+- Existen **3 grados superiores** distintos de Quimica.
+- Unicamente **hay un grado de especializacion**, o certificado profesional, de Quimica.
 {{% /notice %}}
 
 
-Para conocer los diferentes cursos para cada familia de FP podeis encontrar mas informacion en https://todofp.es/que-estudiar/loe.html
+Para conocer los diferentes cursos para cada familia de FP podeis encontrar mas informacion en la web de [todofp.es](https://todofp.es/que-estudiar/loe.html)
