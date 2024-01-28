@@ -82,6 +82,15 @@ Para mas informacion sobre las formaciones profesionales de grado superior os re
 
 ## Estructura de FP
 
+La mayoria de FP ya sean de grado basico, medio o superior suelen tener una estructura de estudio similar. La estructura de estudio se conoce como **Plan de Formacion** y esta dividido en **Modulos profesiones**. 
+
+Por lo general, las FP estan divididas en **dos años** donde el primero y la primera mitad del segundo son asignaturas obligatorias ( modulos profesionales de caracter obligatorio ) y la segunad mitad del segundo año son *practicas en empresa*.
+
+
+{{% notice style="grey" title="Que es un modulo profesional?" %}}
+Los modulos profesionales son el equivalente a las asignaturas que se imparten en la ESO o el Bachillerato. Los modulos profesionales son cada una de las piezas de conocimento que forman el titulo de la formacion.
+{{% /notice %}}
+
 ## Familias profesionales FP
 
 Actualmenten existen **26 familias profesionales** de FP, agrupadas por especialidades y grados.
