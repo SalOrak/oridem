@@ -12,7 +12,9 @@ Igual que en el caso de los institutos, hay tres tipos de centros:
 2. **Centros concertados**: Alreadedor de 200 euros mensuales o 2000 euros por curso aproximadamente. 
 3. **Centros privados**: Entre el precio concertado (200 euros mensuales) hasta los 400 euros mensuales. Es decir, el coste de estudiar una FP en centros privados ronda los 3500 euros por curso.
 
-
+Fuentes:
+- [FP privada precios](https://www.ceac.es/blog/formacion-profesional/fp-privada-precio)
+- [FP publica precios](https://educacio.gencat.cat/ca/departament/normativa/taxes-preus-publics/preu-public/)
 
 ## Becas para ciclos formativos
 
@@ -24,3 +26,5 @@ La cuantia economica de la beca depende de la situacion individual de cada famil
 Dependiendo de la situacion las becas parten desde 300 euros hasta los 2500 euros aproximadamente por curso escolar.
 
 Para mas informacion sobre la beca del ministerio consulta la [ web ministerio]( https://web.gencat.cat/es/tramits/tramits-temes/247-beques-ministerio-postobligatoris ).
+
+Ademas, cada comunidad autonoma puede ofrecer becas especificas para estudiar. Para mas informacion sobre estas podeis consultar la siguiente web: [aprendemas.com Becas por comunidad autonoma](https://www.aprendemas.com/es/blog/becas/becas-por-comunidades-autonomas-ayudas-y-subvenciones-para-estudiar-a-todos-los-niveles-171948#becas_cataluna).

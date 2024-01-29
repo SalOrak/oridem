@@ -86,6 +86,8 @@ La mayoria de FP ya sean de grado basico, medio o superior suelen tener una estr
 
 Por lo general, las FP estan divididas en **dos años** donde el primero y la primera mitad del segundo son asignaturas obligatorias ( modulos profesionales de caracter obligatorio ) y la segunad mitad del segundo año son *practicas en empresa*.
 
+Las practicas en empresa son denominadas comunmente como **FCT** o **Formacion en Centros de Trabajo**. Corresponden al ultimo modulo profesional, o asignatura, que se cursan antes de poder obtener el titulo. Tal y como indica su nombre, las FCT son practicas hechas en una empresa del sector profesional del ciclo formativo en cuestion.
+
 
 {{% notice style="grey" title="Que es un modulo profesional?" %}}
 Los modulos profesionales son el equivalente a las asignaturas que se imparten en la ESO o el Bachillerato. Los modulos profesionales son cada una de las piezas de conocimento que forman el titulo de la formacion.
