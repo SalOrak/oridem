@@ -43,7 +43,7 @@ Fuente: [Que es un centro concertado](https://torrealba.es/concertado/que-es-un-
 
 **Coste**: Menos economicos ya que los centros son una empresa con animo de lucro.
 
-**Recursos**: Cuentan con recursos y materiales suficientes para ofrecer una educacion completa de alta calidad, incluyendo laboratorios, talleres, bibliotescas y otros recursos educativos.
+**Recursos**: Cuentan con recursos y materiales suficientes para ofrecer una educacion completa de alta calidad, incluyendo laboratorios, talleres, bibliotecas y otros recursos educativos.
 
 **Oportunidad laboral**: Ofrecen una mas amplia variedad de oportunidades laborales contando con convenios de practicas en importantes empresas locales y nacionales.
 

@@ -18,7 +18,7 @@ Dentro de [todofp.es](https://todofp.es) puede que te interesen los siguientes l
 - [ Que puedo estudiar? Todas las familias profesionales en *posters* (pdf)](https://todofp.es/que-estudiar.html)
 	- [Catalogo de FP Grado Basico](https://todofp.es/dam/jcr:bdb453d8-d777-43f7-ba56-9a2251d04e17/poster-gb.pdf) 
 	- [Catalogo de FP Grado Medio](https://todofp.es/dam/jcr:cfef13f9-43f8-4e0a-960a-21f098713597/poster-gm.pdf) 
-	- [Catalogo de FP Grado Superior]()
+	- [Catalogo de FP Grado Superior](https://todofp.es/dam/jcr:d264b0d3-0bc1-41d2-8981-512b3da2cad3/poster-gs.pdf)
 	- [Catalogo de Cursos de Especializacion o Masters FP](https://todofp.es/dam/jcr:1816de4c-0906-4e72-9496-66ed52b79fd3/poster-esp.pdf) 
 
 Ademas, tambien sugerimos echar un vistazola a la web oficial de Catalunya para la orientacion academica: [Orientacio Educativa](https://xtec.gencat.cat/ca/curriculum/orientacioeducativa/).

@@ -59,7 +59,7 @@ Los ciclos de formacion de Grado Superior son estudios profesionalizadores que f
 
 Las FP de grado superior tienen una duracion de 2000 horas repartidas en dos cursos academicos.
 
-L@s graduad@s en **FP Medio** tienen la oportunidad de: 
+L@s graduad@s en **FP Superior** tienen la oportunidad de: 
 - Acceder y estudiar en **cualquier estudio universitario** de grado.
 - Acceder al mundo laboral.
 
